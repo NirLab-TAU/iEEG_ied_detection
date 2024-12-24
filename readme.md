@@ -13,6 +13,7 @@ For questions or further information, please contact [Rotem Falach](https://gith
 
 ## Citation
 - **Paper**\
-  Falach, R., Geva-Sagiv, M., Eliashiv, D. et al. Annotated interictal discharges in intracranial EEG sleep data and related machine learning detection scheme. Sci Data 11, 1354 (2024). https://doi.org/10.1038/s41597-024-04187-y
+  Falach, R., Geva-Sagiv, M., Eliashiv, D. et al. Annotated interictal discharges in intracranial EEG sleep data and related machine learning detection scheme. Sci Data 11, 1354 (2024).\
+  https://doi.org/10.1038/s41597-024-04187-y
 - **Dataset**\
   10.6084/m9.figshare.26131978
